@@ -1,0 +1,4 @@
+[submodule "testlib1"]
+	path = ../testlib1
+	url = https://github.com/wingfiring/testlib1.git
+	fetchRecurseSubmodules = on-demand
